@@ -1,8 +1,2 @@
-# ai
-
-Emerging Tech and AI
-Computer scientists are fundamentally problem-solvers who design and build computational systems. They do much more than just write code; they study the theoretical foundations of information and computation to create algorithms, software, and hardware that tackle complex challenges. This matters because their work is the engine behind modern society, powering everything from global communication networks and financial systems to medical breakthroughs, scientific research, and entertainment. 
-
-To approach a problem like a computer scientist, you use a method called computational thinking. This involves four key steps. First, you use decomposition to break down a complex problem into smaller, more manageable parts. Next, you look for recurring themes or similarities across these parts through pattern recognition. Then, using abstraction, you focus only on the important details while ignoring irrelevant information to form a general model of the solution. Finally, you design an algorithm, which is a clear, step-by-step set of instructions for a computer to follow to solve each small part and, ultimately, the entire problem.  This systematic approach allows for the creation of effective and replicable solutions.
-
-As a computer scientist, your ethical responsibilities are twofold. To the end user, you have a duty to ensure privacy and security by protecting their data, to build safe and reliable products that won't cause harm, and to promote fairness and accessibility by avoiding bias in algorithms and making technology usable for everyone. To your organization, you owe fidelity and confidentiality, acting in its best interest and protecting its intellectual property. A core challenge is balancing these duties, but the primary ethical obligation is to prioritize the public good and human well-being, ensuring that technology serves humanity responsibly.
+# RL Example
+A Deep Q Learning model to play a game
